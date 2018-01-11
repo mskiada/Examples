@@ -1,6 +1,6 @@
-public class Main {
+public class MyMain {
 
-	public Main() {
+	public MyMain() {
 		// TODO Auto-generated constructor stub
 	}
 
